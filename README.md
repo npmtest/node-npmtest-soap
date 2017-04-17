@@ -1,7 +1,7 @@
 # test coverage for  [soap (v0.19.0)](https://github.com/milewise/node-soap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-soap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-soap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-soap.svg)](https://travis-ci.org/npmtest/node-npmtest-soap)
 #### A minimal node SOAP client
 
-[![NPM](https://nodei.co/npm/soap.png?downloads=true)](https://www.npmjs.com/package/soap)
+[![NPM](https://nodei.co/npm/soap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/soap)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-soap/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-soap/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-soap/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-soap/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-soap/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-soap/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-soap/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-soap/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-soap/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-soap/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-soap%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-soap/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-soap/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-soap/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-soap/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-soap%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-soap/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-soap/build/test-report.html](https://npmtest.github.io/node-npmtest-soap/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-soap/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-soap/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-soap/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-soap/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-soap/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-soap/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-soap/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Vinay Pulim",
-        "email": "v@pulim.com"
+        "name": "Vinay Pulim"
     },
     "bugs": {
         "url": "https://github.com/milewise/node-soap/issues"
@@ -88,27 +93,22 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "vpulim",
-            "email": "v@pulim.com"
+            "name": "vpulim"
         },
         {
-            "name": "aaron",
-            "email": "aaron.heckmann+github@gmail.com"
+            "name": "aaron"
         },
         {
-            "name": "jsdevel",
-            "email": "js.developer.undefined@gmail.com"
+            "name": "jsdevel"
         },
         {
-            "name": "herom",
-            "email": "h.romirer@gmail.com"
+            "name": "herom"
         }
     ],
     "name": "soap",
     "optionalDependencies": {
         "ursa": "0.8.5 || >=0.9.4"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/milewise/node-soap.git"

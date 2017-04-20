@@ -1,4 +1,7 @@
-# test coverage for  [soap (v0.19.0)](https://github.com/milewise/node-soap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-soap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-soap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-soap.svg)](https://travis-ci.org/npmtest/node-npmtest-soap)
+# npmtest-soap
+
+#### basic test coverage for  [soap (v0.19.0)](https://github.com/milewise/node-soap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-soap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-soap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-soap.svg)](https://travis-ci.org/npmtest/node-npmtest-soap)
+
 #### A minimal node SOAP client
 
 [![NPM](https://nodei.co/npm/soap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/soap)
